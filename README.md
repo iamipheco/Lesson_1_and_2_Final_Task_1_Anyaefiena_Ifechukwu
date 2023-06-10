@@ -1,9 +1,9 @@
-## This repository contains the code for Google Clone created with HTML.
+## This repository contains the code for the basic page of google https://www.google.com created with HTML and CSS.
 
 ## Files
 - index.html This is the main page of the website. It contains information about the website.
 
-- css/ This directory contains two CSS files used for styling the website.
+- css/ This directory contains CSS files used for styling the website.
 
 - Images/ This directory contains images used on the website.
 
@@ -19,6 +19,7 @@
 
 - run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
 
+[View LIVE Site](https://iamipheco.github.io/Lesson_1_and_2_Final_Task_1_Anyaefiena_Ifechukwu/)
 
 ## Acknowledgement
 

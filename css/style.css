@@ -99,7 +99,7 @@ header {
 }
 
 .circle-shadow:hover {
-	background-color: rgba(0, 0, 0, 10%);
+	background-color: #0000001a;
 }
 
 .prof-image {
